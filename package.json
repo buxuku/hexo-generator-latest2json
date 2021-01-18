@@ -1,0 +1,33 @@
+{
+  "name": "hexo-generator-latest2json",
+  "version": "1.0.0",
+  "description": "build a latest post list to a json file",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buxuku/hexo-generator-latest2json.git"
+  },
+  "keywords": [
+    "hexo",
+    "json",
+    "lastest"
+  ],
+  "author": "buxuku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buxuku/hexo-generator-latest2json/issues"
+  },
+  "homepage": "https://github.com/buxuku/hexo-generator-latest2json#readme",
+  "devDependencies": {
+    "hexo": "^5.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
